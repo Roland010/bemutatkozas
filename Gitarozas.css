@@ -1,0 +1,29 @@
+body{
+    padding: 20px;
+    padding-right: 100px;
+    background-color: darkgoldenrod;
+    text-align: justify;
+    font-family: Arial;
+}
+p{
+    padding-left: 30px;
+    font-size: 20px;
+}
+img{
+    width: 20%;
+    padding-left: 30px;
+}
+table, td{
+    border-collapse: collapse;
+    border:3px black solid;
+    width: 30%;
+    font-weight: 700;
+    background-color: goldenrod;
+    text-align: center;
+    margin-left: 30px;
+}
+.vege{
+    font-size: 15px;
+    font-style: italic;
+    text-align: right;
+}
